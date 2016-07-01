@@ -12,9 +12,8 @@ In addition to that, a portal will be available for you to link with your patron
 
 
 #Technologies
-- [Angular.js]: https://angularjs.org/
-- [Underscore.js]: http://underscorejs.org/
-- [Node.js]:  https://nodejs.org/en/
-- [Jquery.js]:  https://jquery.com/
-- [Bootstrap]: http://getbootstrap.com/
-#
+[Angular.js]: https://angularjs.org/
+[Underscore.js]: http://underscorejs.org/
+[Node.js]:  https://nodejs.org/en/
+[Jquery.js]:  https://jquery.com/
+[Bootstrap]: http://getbootstrap.com/
